@@ -1,0 +1,21 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "trashOption": "local",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "new",
+  "attachmentFolderPath": "fu",
+  "readableLineLength": false,
+  "defaultViewMode": "source"
+}

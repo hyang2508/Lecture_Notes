@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "6f9d34a469eefe75",
+    "type": "split",
+    "children": [
+      {
+        "id": "22f01b6f6ade400e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19dd17f79d5e4a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ELEC3120 Computer Communication Networks/Application Layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3b09926a05e0b61",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7e043b3728f0254",
+        "type": "tabs",
+        "dimension": 81.85219831618335,
+        "children": [
+          {
+            "id": "c5d561212ae9b3a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2480ebcacd4c5dba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "vpn",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9decc919f9ae97ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9449a4b1a4209250",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "60323752bdeeed7d",
+        "type": "tabs",
+        "dimension": 18.14780168381665,
+        "children": [
+          {
+            "id": "53798c89242b7f75",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0357204e0e890ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ec0742ac24640fc",
+        "type": "tabs",
+        "dimension": 75.669099756691,
+        "children": [
+          {
+            "id": "f834de3515050c13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ELEC3120 Computer Communication Networks/Application Layer.md"
+              }
+            }
+          },
+          {
+            "id": "3ad44109a58a71e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "abc47e4ce45c7712",
+        "type": "tabs",
+        "dimension": 24.330900243309003,
+        "children": [
+          {
+            "id": "73f96f5627ddfbb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "77c866b5b2588bd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ELEC3120 Computer Communication Networks/Application Layer.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0251d67c0fb51336",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ELEC3120 Computer Communication Networks/Application Layer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "19dd17f79d5e4a59",
+  "lastOpenFiles": [
+    "ELEC3120 Computer Communication Networks/计算机网络：一个系统方法/Chapter3 Internetworking.md",
+    "ELEC3120 Computer Communication Networks/计算机网络：一个系统方法/Chapter5 End-to-End Protocols.md",
+    "ELEC3120 Computer Communication Networks/Application Layer.md",
+    "ELEC3120 Computer Communication Networks/未命名看板.md",
+    "ELEC3120 Computer Communication Networks/未命名.md",
+    "未命名",
+    "ELEC3120 Computer Communication Networks/0906Tutorial.md",
+    "ELEC3120 Computer Communication Networks/0904Lecture.md",
+    "ELEC3120 Computer Communication Networks/计算机网络：一个系统方法",
+    "交换生活感想.md",
+    "MATH3312 Numerical Analysis/1_Solutions of Equations in One Variable.md",
+    "MATH3312 Numerical Analysis/2_Interpolation & Polynomial Approximation.md",
+    "MATH3312 Numerical Analysis",
+    "ELEC3120 Computer Communication Networks",
+    "生物医学成像/仿真资料/完美匹配层笔记.md",
+    "生物医学成像/组会/20230710.md",
+    "生物医学成像/组会/20230724.md",
+    "生物医学成像/组会/20230711复现声学传播.md",
+    "生物医学成像/组会/课题组相关资料.md",
+    "生物医学成像/仿真资料/光声仿真概述.md",
+    "Microscopy Series Course Notes（不定期更新）.md",
+    "Marmousi模型.md",
+    "光学.md",
+    "生物医学成像/论文阅读/综述/综述：Photoacoustic imaging in biomedicine (2006).md",
+    "生物医学成像/论文阅读/综述/综述：Photoacoustic Tomography - In Vivo Imaging from Organelles to Organs.md",
+    "生物医学成像/仿真资料/K-Wave笔记.md",
+    "生物医学成像/仿真资料/FDTD实现波动方程数值模拟.md",
+    "生物医学成像/实验记录/！202307_PythonFDTD仿真声波.md",
+    "生物医学成像/实验记录/202307_复现 Stanford SEP 各向同性代码.md",
+    "生物医学成像/实验记录/202307_基于C++实现FWI.md",
+    "生物医学成像/仿真资料/Reference/Understanding the Finite-Difference Time-Domain.pdf",
+    "生物医学成像/仿真资料/Reference/k-wave_user_manual_1.1.pdf",
+    "数学物理方程",
+    "生物医学成像/组会/2023年5月22日第25次组会+mjt.pptx",
+    "生物医学成像/组会/~$20230724杨涵.pptx",
+    "生物医学成像/组会/20230724杨涵.pptx",
+    "2.计算机技术/自然语言处理与网络舆情监控/NLP代码/tokenization.png",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas"
+  ]
+}

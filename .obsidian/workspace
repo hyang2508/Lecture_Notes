@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "6f9d34a469eefe75",
+    "type": "split",
+    "children": [
+      {
+        "id": "2193b7f5da0da9ed",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3b09926a05e0b61",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7e043b3728f0254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5d561212ae9b3a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2480ebcacd4c5dba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9decc919f9ae97ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 172
+  },
+  "right": {
+    "id": "0357204e0e890ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1184a89861ab0eb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ff8d38adf27e9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "abc47e4ce45c7712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f96f5627ddfbb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77c866b5b2588bd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bad4cd6b947398dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 189.40000915527344
+  },
+  "active": "c5d561212ae9b3a0",
+  "lastOpenFiles": [
+    "人工智能/视频测速/测距.md",
+    "人工智能/目标检测/视频中运动目标的检测.md",
+    "人工智能/目标检测/目标检测的性能评价.md",
+    "人工智能/目标检测/YOLO/YOLOv5.md",
+    "人工智能/目标检测/YOLO/YOLOv3.md",
+    "人工智能/目标检测/YOLO/各个YOLO模型对比.md",
+    "数学建模/数学建模问题&算法的分类.md",
+    "数字IC/数字IC验证/IC验证思路.md",
+    "数字IC/FPGA设计/Verilog语言.md",
+    "数字IC/FPGA设计/异步时钟的同步化——“慢打一拍，寄存一拍”.md"
+  ]
+}

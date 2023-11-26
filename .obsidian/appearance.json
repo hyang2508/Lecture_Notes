@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "accentColor": "",
+  "textFontFamily": "Adobe 宋体 Std",
+  "translucency": true,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "预览模式优化-空白行-行间距"
+  ]
+}

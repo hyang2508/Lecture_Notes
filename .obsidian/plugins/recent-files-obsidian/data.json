@@ -1,0 +1,111 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Application Layer",
+      "path": "ELEC3120 Computer Communication Networks/Application Layer.md"
+    },
+    {
+      "basename": "Chapter3 Internetworking",
+      "path": "ELEC3120 Computer Communication Networks/计算机网络：一个系统方法/Chapter3 Internetworking.md"
+    },
+    {
+      "basename": "Chapter5 End-to-End Protocols",
+      "path": "ELEC3120 Computer Communication Networks/计算机网络：一个系统方法/Chapter5 End-to-End Protocols.md"
+    },
+    {
+      "basename": "0906Tutorial",
+      "path": "ELEC3120 Computer Communication Networks/0906Tutorial.md"
+    },
+    {
+      "basename": "0904Lecture",
+      "path": "ELEC3120 Computer Communication Networks/0904Lecture.md"
+    },
+    {
+      "basename": "1_Solutions of Equations in One Variable",
+      "path": "MATH3312 Numerical Analysis/1_Solutions of Equations in One Variable.md"
+    },
+    {
+      "basename": "2_Interpolation & Polynomial Approximation",
+      "path": "MATH3312 Numerical Analysis/2_Interpolation & Polynomial Approximation.md"
+    },
+    {
+      "basename": "课题组相关资料",
+      "path": "生物医学成像/组会/课题组相关资料.md"
+    },
+    {
+      "basename": "完美匹配层笔记",
+      "path": "生物医学成像/仿真资料/完美匹配层笔记.md"
+    },
+    {
+      "basename": "20230710",
+      "path": "生物医学成像/组会/20230710.md"
+    },
+    {
+      "basename": "20230724",
+      "path": "生物医学成像/组会/20230724.md"
+    },
+    {
+      "basename": "20230711复现声学传播",
+      "path": "生物医学成像/组会/20230711复现声学传播.md"
+    },
+    {
+      "basename": "光声仿真概述",
+      "path": "生物医学成像/仿真资料/光声仿真概述.md"
+    },
+    {
+      "basename": "Microscopy Series Course Notes（不定期更新）",
+      "path": "Microscopy Series Course Notes（不定期更新）.md"
+    },
+    {
+      "basename": "Marmousi模型",
+      "path": "Marmousi模型.md"
+    },
+    {
+      "basename": "光学",
+      "path": "光学.md"
+    },
+    {
+      "basename": "综述：Photoacoustic imaging in biomedicine (2006)",
+      "path": "生物医学成像/论文阅读/综述/综述：Photoacoustic imaging in biomedicine (2006).md"
+    },
+    {
+      "basename": "综述：Photoacoustic Tomography - In Vivo Imaging from Organelles to Organs",
+      "path": "生物医学成像/论文阅读/综述/综述：Photoacoustic Tomography - In Vivo Imaging from Organelles to Organs.md"
+    },
+    {
+      "basename": "K-Wave笔记",
+      "path": "生物医学成像/仿真资料/K-Wave笔记.md"
+    },
+    {
+      "basename": "FDTD实现波动方程数值模拟",
+      "path": "生物医学成像/仿真资料/FDTD实现波动方程数值模拟.md"
+    },
+    {
+      "basename": "！202307_PythonFDTD仿真声波",
+      "path": "生物医学成像/实验记录/！202307_PythonFDTD仿真声波.md"
+    },
+    {
+      "basename": "202307_复现 Stanford SEP 各向同性代码",
+      "path": "生物医学成像/实验记录/202307_复现 Stanford SEP 各向同性代码.md"
+    },
+    {
+      "basename": "202307_基于C++实现FWI",
+      "path": "生物医学成像/实验记录/202307_基于C++实现FWI.md"
+    },
+    {
+      "basename": "常见方程",
+      "path": "数学物理方程/常见方程.md"
+    },
+    {
+      "basename": "k-wave_user_manual_1.1",
+      "path": "生物医学成像/仿真资料/Reference/k-wave_user_manual_1.1.pdf"
+    },
+    {
+      "basename": "A pipeline approach for three dimensional time-domain finite-difference multi-parameter waveform inversion on GPUs",
+      "path": "生物医学成像/论文阅读/仿真论文/A pipeline approach for three dimensional time-domain finite-difference multi-parameter waveform inversion on GPUs.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
